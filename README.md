@@ -4,6 +4,7 @@
 
 ```
 npm install
+```
 
 ## Project setup
 ```
