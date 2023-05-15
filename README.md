@@ -1,5 +1,10 @@
 # vue-waimai
 
+## Initialize Project
+
+```
+npm install
+
 ## Project setup
 ```
 yarn install
